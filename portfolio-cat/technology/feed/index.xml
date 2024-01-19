@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology &#8211; Impact</title>
+	<atom:link href="https://mohsamak.github.io/site1/portfolio-cat/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mohsamak.github.io/site1</link>
+	<description>Your Path Way To Independance</description>
+	<lastBuildDate>Sun, 03 Dec 2023 22:45:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Photoshop</title>
+		<link>https://mohsamak.github.io/site1/portfolio/photoshop/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2023 22:44:37 +0000</pubDate>
+				<guid isPermaLink="false">https://mohsamak.github.io/site1/?post_type=portfolio#038;p=295</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<ol>
+<li>Image Editing Basics: You&#8217;ll learn essential image editing techniques, such as cropping, resizing, and adjusting brightness, contrast, and colors. The workshop may cover topics like working with layers, selection tools, and using different brush types.</li>
+
+
+
+<li>Retouching and Restoration: Photoshop is widely used for retouching and restoring images. The workshop may delve into techniques for removing blemishes, wrinkles, or unwanted elements from photos. It may also cover restoring old or damaged photos.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="952" height="867" src="https://mohsamak.github.io/site1/wp-content/uploads/2023/11/portfolio-3-img-2.jpg" alt="" class="wp-image-31"/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programming</title>
+		<link>https://mohsamak.github.io/site1/portfolio/programming/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2023 22:26:36 +0000</pubDate>
+				<guid isPermaLink="false">https://mohsamak.github.io/site1/?post_type=portfolio#038;p=243</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<ol>
+<li>Hands-on Exercises: Workshops typically include hands-on exercises to practice coding. You&#8217;ll be given coding challenges or projects to work on under the guidance of the instructor. These exercises help reinforce the concepts you learn and provide an opportunity to apply them in practical scenarios.</li>
+
+
+
+<li>Problem Solving and Algorithms: Programming is not just about syntax; it&#8217;s also about problem-solving. The workshop may cover algorithmic thinking, problem-solving strategies, and how to break down complex problems into smaller, manageable steps.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full is-style-default"><img decoding="async" width="1366" height="768" src="https://mohsamak.github.io/site1/wp-content/uploads/2023/12/Screenshot-14.png" alt="" class="wp-image-210"/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Video Editor</title>
+		<link>https://mohsamak.github.io/site1/portfolio/video-editor/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2023 22:19:12 +0000</pubDate>
+				<guid isPermaLink="false">https://mohsamak.github.io/site1/?post_type=portfolio#038;p=241</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<ol>
+<li>Introduction to Video Editing: The workshop will likely start with an overview of video editing fundamentals. This may include understanding various video formats, resolution, frame rates, and aspect ratios.</li>
+
+
+
+<li>Introduction to Editing Software: You&#8217;ll learn about popular video editing software such as Adobe Premiere Pro, Final Cut Pro, or DaVinci Resolve. The workshop may focus on one specific software or provide an overview of multiple options.</li>
+
+
+
+<li>Basic Editing Techniques: You&#8217;ll learn essential editing techniques such as importing media, organizing files, timeline navigation, trimming clips, and adding transitions.</li>
+
+
+
+<li>Advanced Editing Techniques: The workshop will cover more advanced editing techniques, such as working with multiple video and audio tracks, using effects and filters, color correction, and audio editing.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="952" height="867" src="https://mohsamak.github.io/site1/wp-content/uploads/2023/11/portfolio-2-img-1-1.jpg" alt="" class="wp-image-32"/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
